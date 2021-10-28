@@ -1,4 +1,4 @@
-Tapped, a fingerprint locked beer tap system which tracks user consumption for payment processing and fun data analytics. 
+**Tapped**, a fingerprint locked beer tap system which tracks user consumption for payment processing and fun data analytics. 
 
 Included is the arduino sketch, python files for backend and reading from serial port, and a simple front end. 
 
